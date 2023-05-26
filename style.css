@@ -1,0 +1,9 @@
+.imagem{
+  width: 300px!important;
+  height: 350px!important;
+}
+
+.div-numeros{
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+}
